@@ -1,0 +1,93 @@
+Group: original
+  time: 20161104T184732+0800 - 20161104T184732+0800
+  total duration:       0
+  requests:             2
+  requests per second:  0
+  response duration (ms)
+    min:                6
+    average:            121
+    max:                236
+    standard deviation: 115
+    quantiles (ms)
+         10%        0
+         20%        0
+         30%        0
+         40%        0
+         50%        6
+         60%        6
+         70%        6
+         80%        6
+         90%        6
+         99%        6
+       99.9%        6
+      100.0%      236 (max. value)
+  response size (bytes)
+    total:              408
+    min:                204
+    average:            204
+    max:                204
+    standard deviation: 0
+  response status codes
+    200:                   2 (100%)
+Group: transfer
+  time: 20161104T184732+0800 - 20161104T184743+0800
+  total duration:       11
+  requests:             1000
+  requests per second:  90
+  response duration (ms)
+    min:                10
+    average:            582
+    max:                1257
+    standard deviation: 288
+    quantiles (ms)
+         10%      218
+         20%      332
+         30%      423
+         40%      481
+         50%      506
+         60%      620
+         70%      752
+         80%      801
+         90%      925
+         99%     1250
+       99.9%     1256
+      100.0%     1257 (max. value)
+  response size (bytes)
+    total:              198000
+    min:                198
+    average:            198
+    max:                198
+    standard deviation: 0
+  response status codes
+    200:                1000 (100%)
+Group: assertion
+  time: 20161104T184743+0800 - 20161104T184743+0800
+  total duration:       0
+  requests:             3
+  requests per second:  0
+  response duration (ms)
+    min:                2
+    average:            2
+    max:                4
+    standard deviation: 0
+    quantiles (ms)
+         10%        0
+         20%        0
+         30%        0
+         40%        2
+         50%        2
+         60%        2
+         70%        2
+         80%        2
+         90%        2
+         99%        2
+       99.9%        2
+      100.0%        4 (max. value)
+  response size (bytes)
+    total:              612
+    min:                204
+    average:            204
+    max:                204
+    standard deviation: 0
+  response status codes
+    200:                   3 (100%)

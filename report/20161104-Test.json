@@ -1,0 +1,52 @@
+{
+  "performanceData":
+  [
+    {
+      "min": 6,
+      "max": 236,
+      "quantile90": 6,
+      "average": 121,
+      "total": 2,
+      "statusCodes":{
+                      "200": 2
+                    },
+      "uriByStatusCode":{
+                          "200": [
+                                  "balanceA",
+                                  "balanceB"
+                                 ]
+                        }
+    }    {
+      "min": 10,
+      "max": 1257,
+      "quantile90": 925,
+      "average": 582,
+      "total": 1000,
+      "statusCodes":{
+                      "200": 1000
+                    },
+      "uriByStatusCode":{
+                          "200": [
+                                  "transferAtoB",
+                                  "transferBtoA"
+                                 ]
+                        }
+    }    {
+      "min": 2,
+      "max": 4,
+      "quantile90": 2,
+      "average": 2,
+      "total": 3,
+      "statusCodes":{
+                      "200": 3
+                    },
+      "uriByStatusCode":{
+                          "200": [
+                                  "balanceA",
+                                  "totalTransferred AB",
+                                  "balanceB"
+                                 ]
+                        }
+    }
+  ]
+}

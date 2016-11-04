@@ -1,0 +1,4 @@
+uri;count;total;min;average;max;standarddeviation;persecond;errors
+"balanceA";1;2;2;2;2;0;0;0
+"totalTransferred AB";1;4;4;4;4;0;0;0
+"balanceB";1;2;2;2;2;0;0;0

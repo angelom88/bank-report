@@ -1,0 +1,3 @@
+uri;count;total;min;average;max;standarddeviation;persecond;errors
+"transferAtoB";517;292213;10;565;1257;285;47;0
+"transferBtoA";483;290323;11;601;1254;291;43;0
